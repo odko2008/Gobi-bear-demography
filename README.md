@@ -7,9 +7,9 @@ The script and data are used in Tumendemberel et al. 2021. Please click on the b
 
 ## **1. Capture mark recapture modelling**
 ----------------
-The R script, [CMR.R](https://....) has the information for the detailed script.  The data will be found at the link [Figshare]((https://figshare.com/articles/dataset/Demography_of_Gobi_bears/14776206))
+The R script, [CMR.R](https://github.com/odko2008/Gobi-bear-demography/tree/main/Scripts) has the information for the detailed script.  The data will be found at the link [Figshare](https://figshare.com/articles/dataset/Demography_of_Gobi_bears/14776206)
 
 
 ## **2. Spatial capture recapture modelling**
 ----------------
-The R script, [SCR.R](https://....) has the information for the detailed script.  The data will be found at the link [Figshare]((https://figshare.com/articles/dataset/Demography_of_Gobi_bears/14776206))
+Please follow the workflow of the R script, [SCR.R](https://github.com/odko2008/Gobi-bear-demography/tree/main/Scripts). The data will be found at the link [Figshare](https://figshare.com/articles/dataset/Demography_of_Gobi_bears/14776206)
